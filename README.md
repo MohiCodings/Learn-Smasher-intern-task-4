@@ -1,5 +1,5 @@
 # Learn-Smasher-intern-task-4
-## *Weather App*
+# Weather App
 This is a simple weather app that allows users to get the current weather information for a specific location. <br>
 It was developed as an internship task to showcase my skills in web development.
 
