@@ -4,6 +4,10 @@ This is a simple weather app that allows users to get the current weather inform
 It was developed as an internship task to showcase my skills in web development.
 
 
+## Demo
+https://mohicodings.github.io/Learn-Smasher-intern-task-4/
+
+
 ## Getting Started
 To use weather app, follow these steps:
 
