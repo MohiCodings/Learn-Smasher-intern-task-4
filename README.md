@@ -31,7 +31,7 @@ Open the index.html file in a web browser.
 ## APIs Used
 OpenWeatherMap API - Used to retrieve weather data.
 
-## you can check full tutorial on :
+
 
 
 
